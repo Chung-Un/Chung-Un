@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on fun and simple projects.
 - 📫 How to reach me, via email chungunyum23@gmail.com !
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: my favorite band is My Chemical Romance, any other mcr fans here?? :3
+- ⚡ Fun fact: my favorite band is My Chemical Romance
 
 <!---
 Chung-Un/Chung-Un is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
